@@ -1,0 +1,1 @@
+name := "scala-list-function-exercises"
